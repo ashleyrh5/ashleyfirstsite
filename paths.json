@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/ashleyfirstsite/language-masters/en:/",
+    "/content/ashleyfirstsite/language-masters/en/:/en/",
+    "/content/ashleyfirstsite/language-masters/fr/:/fr/",
+    "/content/ashleyfirstsite/language-masters/fr:/fr",
+    "/content/ashleyfirstsite/language-masters/es/:/es/",
+    "/content/ashleyfirstsite/language-masters/es:/es",
+    "/content/ashleyfirstsite/language-masters/ja/:/ja/",
+    "/content/ashleyfirstsite/language-masters/ja:/ja",
+    "/content/ashleyfirstsite/language-masters/de/:/de/",
+    "/content/ashleyfirstsite/language-masters/de:/de",
+    "/content/ashleyfirstsite/configuration:/.helix/config.json",
+    "/content/ashleyfirstsite/metadata:/metadata.json",
+    "/content/ashleyfirstsite/redirects:/redirects.json",
+    "/content/ashleyfirstsite/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/ashleyfirstsite/",
+    "/content/dam/ashleyfirstsite/"
   ]
 }
